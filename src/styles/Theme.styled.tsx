@@ -13,7 +13,7 @@ export const myTheme = {
     },
     backgrColors: {
         primaryTwo: "#4E71FE",
-        secondaryTwo: "#4E71FE",
+        secondaryTwo: "gray",
 
     }
 
