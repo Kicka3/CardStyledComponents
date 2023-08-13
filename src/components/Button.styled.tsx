@@ -25,8 +25,6 @@ export const Button = styled.button<ButtonPropsType> `
     background-color: #DA70D6;
     color: snow;
   }
-  
-
 `;
 
 
